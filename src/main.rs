@@ -8,7 +8,7 @@ fn main() {
     let matches = App::new("Beautiful Cryto Address")
         .version("1.0")
         .author("Leon Yap <leon.yap@gmail.com>")
-        .about("Discover special hash address")
+        .about("Discover beautiful ETH hash address")
         .arg(Arg::with_name("num")
             .short("n")
             .long("number")
